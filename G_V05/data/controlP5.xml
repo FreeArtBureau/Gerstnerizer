@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<controlP5 colorLabel="ffff0000" colorValue="ffffffff" colorForeground="ff323232" date="Tue Nov 22 12:57:52 CET 2011" colorBackground="ffaaaaaa" colorActive="ff0082a4" lock="false" filepath="controlP5.xml" urlpath="">
+<window height="961" name="main" background="00000000" width="680" class="Gerstnerizer_01">
+<tab name="global" width="40" id="-1" visible="1.0" open="1.0" label="global" moveable="0.0"/>
+<tab name="default" width="45" id="-1" visible="1.0" open="1.0" label="default" moveable="0.0">
+<group colorLabel="ffffffff" colorValue="ffffffff" name="menu" width="35" id="-1" colorForeground="ff323232" visible="1.0" open="1.0" colorBackground="ffaaaaaa" y="25.0" label="menu" x="15.0" colorActive="ff0082a4" height="9" moveable="1.0">
+<controller name="ShapeSize" id="-1" width="250" visible="1.0" min="15.0" type="slider" max="90.0" y="5.0" label="ShapeSize" x="0.0" value="15.0" height="10" moveable="1.0"/>
+<controller name="NumSides" id="-1" width="250" visible="1.0" min="1.0" type="slider" max="30.0" y="25.0" label="NumSides" x="0.0" value="4.48" height="10" moveable="1.0"/>
+<controller name="Contour" id="-1" width="250" visible="1.0" min="0.0" type="slider" max="20.0" y="40.0" label="Contour" x="0.0" value="0.56" height="10" moveable="1.0"/>
+<controller name="ShapeDist" id="-1" width="250" visible="1.0" min="0.0" type="slider" max="30.0" y="55.0" label="ShapeDist" x="0.0" value="0.0" height="10" moveable="1.0"/>
+<controller name="ManualRotate" id="-1" width="250" visible="1.0" min="0.0" type="slider" max="6.2831855" y="75.0" label="ManualRotate" x="0.0" value="0.0" height="10" moveable="1.0"/>
+<controller name="res" id="-1" width="250" visible="1.0" min="20.0" type="slider" max="40.0" y="90.0" label="res" x="0.0" value="30.8" height="10" moveable="1.0"/>
+<controller name="numH" id="-1" width="250" visible="1.0" min="0.0" type="slider" max="40.0" y="115.0" label="numH" x="0.0" value="14.24" height="10" moveable="1.0"/>
+<controller name="numV" id="-1" width="250" visible="1.0" min="0.0" type="slider" max="40.0" y="130.0" label="numV" x="0.0" value="4.7999997" height="10" moveable="1.0"/>
+<controller name="AngleChange1" id="-1" width="10" visible="1.0" type="toggle" y="155.0" label="Angle 90&#xb0;" x="0.0" value="0.0" height="10" moveable="1.0"/>
+<controller name="ChangeGrid" id="-1" width="10" visible="1.0" type="toggle" y="155.0" label="HEX Grid" x="55.0" value="1.0" height="10" moveable="1.0"/>
+<controller name="AddForm1" id="-1" width="10" visible="1.0" type="toggle" y="155.0" label="Add Form1" x="110.0" value="1.0" height="10" moveable="1.0"/>
+<controller name="ChangeForm" id="-1" width="10" visible="1.0" type="toggle" y="155.0" label="Change Form" x="220.0" value="0.0" height="10" moveable="1.0"/>
+<controller name="AddForm2" id="-1" width="10" visible="1.0" type="toggle" y="155.0" label="Add Form2" x="165.0" value="1.0" height="10" moveable="1.0"/>
+</group>
+</tab>
+</window>
+</controlP5>
+
